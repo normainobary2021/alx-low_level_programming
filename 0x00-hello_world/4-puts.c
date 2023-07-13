@@ -1,13 +1,14 @@
 #include <stdio.h>
 /**
- * main - the main function
- * return - the return value is 0
- **/
+ * main - Entry point
+ *
+ * Description: 'the program's description'
+ * @parameter: describe the parameter
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	/**
-	 * return - the return is 0 as below
-	 **/
 	return (0);
 }
